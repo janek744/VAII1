@@ -8,7 +8,7 @@ body {
     position: sticky;
 }
 
-.nav-link, .navbar-brand, .nadpish2, .nadpish3, .text {
+.nav-link, .navbar-brand, h2, h3, .text {
     color: white;
     font-weight: bold;
 }
@@ -25,7 +25,7 @@ body {
 }
 
 .nav-item:first-child {
-    background-color: #557a95;
+    background-color: #938e94   ;
     border-radius: 30px;
 }
 
@@ -64,4 +64,13 @@ body {
 h2 {
     padding: 20px;
     font-size: 50px;
+}
+
+.bif {
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+.footer {
+    text-align: center;
 }
