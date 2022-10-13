@@ -31,9 +31,11 @@ body {
 }
 
 .navbar-nav {
-    left: 85%;
-    transform: translate(-75%, 0);
-    position: absolute;
+    padding-left: 48%;
+}
+
+.navbar-brand {
+    padding-left: 15%;
 }
 
 .custom-toggler .navbar-toggler-icon {
